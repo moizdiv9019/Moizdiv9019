@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="1000"  width="3000" src="https://user-images.githubusercontent.com/119114162/224994258-80e12746-1bc3-4502-ac06-52570e2c7a83.gif"  /> 
 </div>
 
 ###
@@ -12,9 +12,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=moizdiv9019.moizdiv9019&left_text=Divx"  />
-</div>
+
 
 ###
 
@@ -26,7 +24,7 @@
 
 ###
 
-<p align="left">I'm a self-taught developer from Karnataka 🚀<br><br>- 🔭 Exploring the world of code one         project at a time<br><br>- ⚡ I believe in growth, not perfection<br><br>-🌍 Building real-world projects and trying to solve real world problems.<br><br>-✨Let’s build something meaningful together<br><br>- Follow for more⚡</p>
+<p align="left">I'm a self-taught developer from Karnataka 🚀<br><br>- 🔭 Exploring the world of code one project at a time<br><br>-🌍 Building real-world projects and trying to solve real world problems.<br><br>-✨Let’s build something meaningful together<br><br>- Follow for more⚡</p>
 
 ###
 
@@ -64,8 +62,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=moizdiv9019.moizdiv9019&left_text=Follow%20and%20join%20"  />
-</div>
 
-###
+
+
