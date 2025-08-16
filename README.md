@@ -3,7 +3,7 @@
 
 ###
 
-<h1 align="center">hey there I'm  👋 moiz</h1>
+<h1 align="center">Hey there I'm  👋 moiz</h1>
 
 <p align="left">I'm a self-taught developer from Karnataka 🚀<br><br>- 🔭 Exploring the world of code one project at a time<br><br>-🌍 Building real-world projects and trying to solve real world problems.<br><br>-✨Let’s build something meaningful together<br><br>- Follow for more⚡</p>
 <div align="center">
